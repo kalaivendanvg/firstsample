@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-a=125;
-=======
-a=600;
->>>>>>> b6c0b667aa06c17c987f6102eb0189ff380c525d
+
+a=100;
 b=10;
-c=a+b;
+c=a*b;
 print(c)
+print("kalai multiply")
